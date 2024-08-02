@@ -1,4 +1,4 @@
-namespace Calculator
+namespace Test
 {
     public class Program
     {

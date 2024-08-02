@@ -1,8 +1,8 @@
-﻿using Calculator.Models;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using Test.Models;
 
-namespace Calculator.Controllers
+namespace Test.Controllers
 {
     public class HomeController : Controller
     {

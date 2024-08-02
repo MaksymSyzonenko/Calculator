@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Deploy\\Test\\Test\\Test.csproj": {}
+    "C:\\Users\\user\\Desktop\\Deploy\\Test\\Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Deploy\\Test\\Test\\Test.csproj": {
+    "C:\\Users\\user\\Desktop\\Deploy\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Deploy\\Test\\Test\\Test.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Deploy\\Test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "C:\\Users\\user\\Desktop\\Deploy\\Test\\Test\\Test.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\Deploy\\Test\\Test.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Deploy\\Test\\Test\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Deploy\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,12 +39,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
-              "target": "Package",
-              "version": "[1.17.2, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
